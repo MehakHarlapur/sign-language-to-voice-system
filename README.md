@@ -1,7 +1,7 @@
 
 
 ## What is this project?
-Tuba's Glasses is a real-time sign language to voice system. It uses your webcam to recognize specific hand gestures (signs) and translates them into spoken English sentences. The project is designed to help bridge communication between sign language users and others by providing instant voice output for a set of defined signs.
+Mehak's Glasses is a real-time sign language to voice system. It uses your webcam to recognize specific hand gestures (signs) and translates them into spoken English sentences. The project is designed to help bridge communication between sign language users and others by providing instant voice output for a set of defined signs.
 
 ### Key Features
 - Recognizes 6 main hand signs (USE, TECHNOLOGY, FOR, HELP, NOT, WAR) and several extras
